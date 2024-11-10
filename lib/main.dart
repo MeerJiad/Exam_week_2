@@ -18,7 +18,7 @@ class Assignment extends StatelessWidget {
         textTheme: const TextTheme(
             titleMedium: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
         iconTheme: IconThemeData(
-            //for icon size in icon button theme,we  can use icon theme,because icon button doesn't work well.for that.
+            //for icon size in icon button theme,we  can use icon theme,because icon button doesn't work well for that.
             size: 140),
       ),
     );
